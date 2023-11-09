@@ -1,6 +1,6 @@
 # SIM-UOL Class 2026 Repository
 
-Welcome to the official GitHub repository for the SIM-UOL Class of 2026! This repository has been created to serve as a central hub for all notes and code related to our academic journey. Whether you're a student looking for course materials, a collaborator working on group projects, or simply someone interested in our class, you've come to the right place.
+Welcome to the student GitHub repository for the SIM-UOL Class of 2026! This repository has been created to serve as a central hub for all notes and code related to our academic journey. Whether you're a student looking for course materials, a collaborator working on group projects, or simply someone interested in our class, you've come to the right place.
 
 ## Table of Contents
 
