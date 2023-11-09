@@ -30,5 +30,23 @@ We encourage all students to contribute to this repository. Sharing your notes, 
 
 1. Fork this repository to your GitHub account.
 2. Clone your fork to your local machine.
-
 <code>git clone https://github.com/your-username/SIM-UOL-Class-2026.git</code>
+3. Create a new branch for your contribution.
+<code>git checkout -b feature/your-contribution</code>
+4. Add, edit, or upload your files to the relevant folders.
+5. Commit your changes.
+<code>git commit -m "Added notes for Course ABC."</code>
+6. Push your changes to your fork.
+<code>git push origin feature/your-contribution</code>
+7. Create a pull request from your fork on GitHub. Describe your contribution and submit the request.
+
+Once your pull request is reviewed and approved, your contribution will be added to the main repository.
+
+## Code of Conduct
+
+Please note that we have a [Code of Conduct](CODE_OF_CONDUCT.md) to ensure a respectful and collaborative environment within this repository. We expect all contributors and users to adhere to these guidelines.
+
+Thank you for being a part of this community, and let's make our academic journey in SIM-UOL Class of 2026 a successful and enjoyable one together!
+
+
+
