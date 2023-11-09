@@ -48,5 +48,10 @@ Please note that we have a [Code of Conduct](CODE_OF_CONDUCT.md) to ensure a res
 
 Thank you for being a part of this community, and let's make our academic journey in SIM-UOL Class of 2026 a successful and enjoyable one together!
 
+## Contributors
 
+We'd like to thank the following contributors for their valuable contributions to this repository:
+
+- Krithik V(@krithikV)
+- Jane Smith (@janesmith)
 
