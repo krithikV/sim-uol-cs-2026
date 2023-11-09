@@ -30,7 +30,7 @@ We encourage all students to contribute to this repository. Sharing your notes, 
 
 1. Fork this repository to your GitHub account.
 2. Clone your fork to your local machine.
-<code>git clone https://github.com/your-username/SIM-UOL-Class-2026.git</code>
+<code>[git clone https://github.com/your-username/SIM-UOL-Class-2026.git](https://github.com/krithikV/sim-uol-cs-2026.git)</code>
 3. Create a new branch for your contribution.
 <code>git checkout -b feature/your-contribution</code>
 4. Add, edit, or upload your files to the relevant folders.
