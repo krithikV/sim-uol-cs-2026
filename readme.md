@@ -47,9 +47,9 @@ Once your pull request is reviewed and approved, your contribution will be added
 Please note that we have a [Code of Conduct](CODE_OF_CONDUCT.md) to ensure a respectful and collaborative environment within this repository. We expect all contributors and users to adhere to these guidelines.
 
 Thank you for being a part of this community, and let's make our academic journey in SIM-UOL Class of 2026 a successful and enjoyable one together!
-
+https://avatars.githubusercontent.com/u/150313486?s=64&v=4
 ## Contributors
-[![](https://github.com/TVickram.png?size=30)](https://github.com/TVickram)
+[![](https://avatars.githubusercontent.com/u/150313486?s=64&v=4)](https://github.com/TVickram)
 
 
 
