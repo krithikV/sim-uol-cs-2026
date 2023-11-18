@@ -48,10 +48,7 @@ Please note that we have a [Code of Conduct](CODE_OF_CONDUCT.md) to ensure a res
 
 Thank you for being a part of this community, and let's make our academic journey in SIM-UOL Class of 2026 a successful and enjoyable one together!
 https://avatars.githubusercontent.com/u/150313486?s=64&v=4
-## Contributors
-<a href="https://github.com/TVickram">
-  <img src="https://github.com/TVickram.png?size=50">
-</a>
+
 
 
 
