@@ -49,7 +49,7 @@ Please note that we have a [Code of Conduct](CODE_OF_CONDUCT.md) to ensure a res
 Thank you for being a part of this community, and let's make our academic journey in SIM-UOL Class of 2026 a successful and enjoyable one together!
 
 ## Contributors
-[<img src="https://github.com/{{ TVickram }}.png" width="60px;"/><br /><sub><ahref="https://github.com/{{ TVickram }}">{{ TVickram }}</a></sub>](https://github.com/{{ TVickram }}/{{ sim-uol-cs-2026 }}
+[![](https://opencollective.com/html-react-parser/contributors.svg?width=890&button=false)](https://github.com/remarkablemark/html-react-parser/graphs/contributors)
 
 
 
